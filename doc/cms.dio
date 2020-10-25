@@ -1,0 +1,27 @@
+<mxfile host="65bd71144e" modified="2020-10-24T12:34:43.509Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.50.1 Chrome/83.0.4103.122 Electron/9.2.1 Safari/537.36" etag="gnzuqoiHDN36SswqUw3m" version="13.6.5">
+    <diagram id="cZ0W1QQOAyHEMQ-LYaok" name="ページ1">
+        <mxGraphModel dx="439" dy="448" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="56" target="67" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="56" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width: 100% ; height: 100% ; border-collapse: collapse&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th&gt;&lt;b&gt;ログイン&lt;/b&gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;email&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;password&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ログインボタン&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;overflow=fill;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;rounded=1;align=center;" parent="1" vertex="1">
+                    <mxGeometry x="10" y="10" width="150" height="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="67" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="490" y="30" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="67" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width: 100% ; height: 100% ; border-collapse: collapse&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th&gt;管理画面TOP&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;試合結果登録&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;試合予定登録&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;試合予定登録&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ブログ投稿&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;overflow=fill;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;rounded=1;align=center;" parent="1" vertex="1">
+                    <mxGeometry x="230" y="10" width="150" height="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="70" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width: 100% ; height: 100% ; border-collapse: collapse&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th&gt;試合結果&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;試合結果一覧&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;編集&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;削除&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ブログ投稿&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;overflow=fill;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;rounded=1;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="490" width="150" height="130" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
